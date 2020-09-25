@@ -1,11 +1,15 @@
 // declare array in ES6
 // indexed with random access
 
+// Create
 var fruits = [1, "Nour", true, { name: "Omar", age: 25 }];
 var vegitables = ["cucumber", "courgette", "aubergine"];
-
 var odd = [1, -1, 3, 5];
 var even = [2, 6, 8];
+
+const arr = Array(3);
+const arr1 = Array(3, 5, 6);
+// console.log(arr, arr1);
 
 // console.log(fruits);
 
