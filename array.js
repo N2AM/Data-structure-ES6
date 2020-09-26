@@ -71,3 +71,16 @@ var string = fruits.filter((element) => element.length > 0);
 
 var element = fruits.find((element) => element === "Nour");
 // console.log(element);
+
+// getIndex
+let index = fruits.indexOf("Nour");
+// console.log(index);
+
+// Array.of(x) vs Array(x)
+
+// add , remove last
+
+fruits.push("ss");
+console.log(fruits);
+fruits.pop();
+console.log(fruits);
