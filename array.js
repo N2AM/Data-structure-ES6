@@ -81,6 +81,6 @@ let index = fruits.indexOf("Nour");
 // add , remove last
 
 fruits.push("ss");
-console.log(fruits);
+// console.log(fruits);
 fruits.pop();
-console.log(fruits);
+// console.log(fruits);

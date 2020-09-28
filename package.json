@@ -1,0 +1,23 @@
+{
+  "name": "Data-structure-ES6",
+  "version": "1.0.0",
+  "description": "1- Array",
+  "main": "array.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N2AM/Data-structure-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N2AM/Data-structure-ES6/issues"
+  },
+  "homepage": "https://github.com/N2AM/Data-structure-ES6#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
